@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T03:10:41.211Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" version="24.2.2" etag="co26h1v4admwA166Sy8d" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-07T03:23:57.934Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="6HJ92ejrXYjKJoL4p2Q3" version="24.2.2" type="github">
   <diagram name="第 1 页" id="1NdTjZFJ1MzFrNU6CITG">
-    <mxGraphModel>
+    <mxGraphModel dx="1213" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="i7k7fMFNH7HIbhFsrGFz-1" value="&lt;span style=&quot;&quot;&gt;应&amp;nbsp; &amp;nbsp;用&amp;nbsp; &amp;nbsp;系&amp;nbsp; &amp;nbsp;统&lt;/span&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=2;size=20;indent=5;labelBorderColor=none;fontSize=28;labelPosition=center;align=center;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="100" y="100" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i7k7fMFNH7HIbhFsrGFz-2" value="监控视频库" style="shape=datastore;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="100" y="210" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i7k7fMFNH7HIbhFsrGFz-3" value="人员轨迹" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=2;size=20;indent=5;labelPosition=center;align=center;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="310" y="210" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i7k7fMFNH7HIbhFsrGFz-6" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="160" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="i7k7fMFNH7HIbhFsrGFz-7" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="160" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="i7k7fMFNH7HIbhFsrGFz-8" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="220" width="40" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
